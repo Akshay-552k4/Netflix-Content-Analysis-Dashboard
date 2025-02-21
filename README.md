@@ -1,2 +1,63 @@
-# Netflix-Content-Analysis-Dashboard
-The Netflix Content Analysis Dashboard is an interactive Power BI report that provides insights into Netflix’s movie and TV show catalog. The dashboard helps analyze content distribution, trends over time, genre popularity, and regional availability of shows and movies.
+# 📊 Netflix Content Analysis Dashboard
+
+## 📌 Project Overview
+The **Netflix Content Analysis Dashboard** is an interactive **Power BI report** that provides insights into Netflix’s movie and TV show catalog. The dashboard helps analyze **content distribution, trends over time, genre popularity, and regional availability** of shows and movies.
+
+## 📂 Project Structure
+```
+/Netflix-Content-Analysis-Dashboard
+├── Data/               # Raw datasets (if non-confidential)
+├── Screenshots/        # Images of your dashboards
+├── Project_Files/      # Power BI .pbix file
+├── README.md           # Project description
+├── Report.pdf          # Any report or documentation
+```
+
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Screenshots/dashboard_preview.png)
+
+## 📈 Key Insights
+- **Total Content**: **8,807** movies and TV shows available.
+- **Time Range**: Netflix's content spans from **1925 to 2021**.
+- **Content Breakdown**:  
+  - **Movies**: **69.62%** (**6,131** titles)  
+  - **TV Shows**: **30.38%** (**2,676** titles)  
+- **Genre Analysis**: Most popular genres include **Dramas, Documentaries, Comedies, and Stand-Up Comedy**.
+- **Regional Distribution**: Analysis of Netflix content by country, visualized using **maps**.
+- **Content Growth Over Time**: Shows the number of movies and TV shows released per year.
+- **Ratings Distribution**: Breakdown of movies and shows based on ratings like **TV-MA, PG-13, R, TV-14, etc.**
+
+## 🔗 Dataset Details
+- **Source**: [Netflix dataset from Kaggle or public sources]
+- **Data Size**: Includes information on **titles, genres, release year, country, director, and ratings**.
+- **Key Fields**: Title, Type (Movie/TV Show), Genre, Country, Release Year, Rating.
+
+## 📊 Visuals Included
+✅ **Total Count Cards** (Movies, TV Shows, Directors, Genres)  
+✅ **Stacked Bar Chart** (Movie vs. TV Show ratio)  
+✅ **Map Visualization** (Content count by country)  
+✅ **Bar Charts** (Genre-wise content distribution, Rating-based breakdown)  
+✅ **Line Chart** (Content release trend over the years)  
+
+## 🚀 Features Implemented
+✅ **Interactive Slicers & Filters** (By genre, country, rating, release year)  
+✅ **DAX Measures** (Total content, percentage breakdown, year-wise trends)  
+✅ **Drill-throughs & Tooltips** for deeper insights  
+
+## 🛠️ Tools & Technologies Used
+- **Power BI**: Dashboard creation & data visualization.
+- **DAX (Data Analysis Expressions)**: Custom calculations.
+- **SQL/Excel**: Data pre-processing (if applicable).
+
+## 💡 Future Enhancements
+- Add **trending content analysis** using engagement data.
+- Integrate a **live API** for real-time Netflix content updates.
+- Enhance **data storytelling** with additional visuals and tooltips.
+
+## 🤝 Connect With Me
+🔗 [Your LinkedIn Profile](www.linkedin.com/in/your-profile)  
+📧 [Your Email Address](mailto:your-email@example.com)  
+
+---
+
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! 🚀
