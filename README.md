@@ -19,7 +19,7 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 
 ## 🔗 Dataset Details
 - **Source**: [Netflix dataset from Kaggle or public sources]
-- 
+  
 ## 📊 Visuals Included
 ✅ **Total Count Cards** (Movies, TV Shows, Directors, Genres)  
 ✅ **Stacked Bar Chart** (Movie vs. TV Show ratio)  
