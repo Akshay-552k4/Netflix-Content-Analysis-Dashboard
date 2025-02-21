@@ -3,16 +3,6 @@
 ## 📌 Project Overview
 The **Netflix Content Analysis Dashboard** is an interactive **Power BI report** that provides insights into Netflix’s movie and TV show catalog. The dashboard helps analyze **content distribution, trends over time, genre popularity, and regional availability** of shows and movies.
 
-## 📂 Project Structure
-```
-/Netflix-Content-Analysis-Dashboard
-├── Data/               # Raw datasets (if non-confidential)
-├── Screenshots/        # Images of your dashboards
-├── Project_Files/      # Power BI .pbix file
-├── README.md           # Project description
-├── Report.pdf          # Any report or documentation
-```
-
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](Screenshots/dashboard_preview.png)
 
@@ -29,9 +19,7 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 
 ## 🔗 Dataset Details
 - **Source**: [Netflix dataset from Kaggle or public sources]
-- **Data Size**: Includes information on **titles, genres, release year, country, director, and ratings**.
-- **Key Fields**: Title, Type (Movie/TV Show), Genre, Country, Release Year, Rating.
-
+- 
 ## 📊 Visuals Included
 ✅ **Total Count Cards** (Movies, TV Shows, Directors, Genres)  
 ✅ **Stacked Bar Chart** (Movie vs. TV Show ratio)  
@@ -53,11 +41,7 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 - Add **trending content analysis** using engagement data.
 - Integrate a **live API** for real-time Netflix content updates.
 - Enhance **data storytelling** with additional visuals and tooltips.
-
-## 🤝 Connect With Me
-🔗 [Your LinkedIn Profile](www.linkedin.com/in/your-profile)  
-📧 [Your Email Address](mailto:your-email@example.com)  
-
+  
 ---
 
 ⭐ If you like this project, don’t forget to give it a **star** on GitHub! 🚀
