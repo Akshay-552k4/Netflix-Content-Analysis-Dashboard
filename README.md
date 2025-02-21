@@ -6,7 +6,7 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 ## 📊 Dashboard Preview
 ![Image](https://github.com/user-attachments/assets/a24204b0-6ac8-414b-8bec-a4226b8308e3)
 
-🔗 **[Click here to view the full dashboard](https://github.com/yourrepo/AdventureWorks_Dashboard.pbix)**
+🔗 **[Click here to view the full dashboard](https://github.com/Akshay-552k4/Netflix-Content-Analysis-Dashboard/blob/main/Netflix_Dashboard.pbix)**
 
 
 ## 📈 Key Insights
