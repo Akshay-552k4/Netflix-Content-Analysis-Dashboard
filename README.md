@@ -6,6 +6,9 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 ## 📊 Dashboard Preview
 ![Image](https://github.com/user-attachments/assets/a24204b0-6ac8-414b-8bec-a4226b8308e3)
 
+🔗 **[Click here to view the full dashboard](https://github.com/yourrepo/AdventureWorks_Dashboard.pbix)**
+
+
 ## 📈 Key Insights
 - **Total Content**: **8,807** movies and TV shows available.
 - **Time Range**: Netflix's content spans from **1925 to 2021**.
