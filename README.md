@@ -39,6 +39,7 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 
 ## 💡 Future Enhancements
 - Add **trending content analysis** using engagement data.
+- ![Image](https://github.com/user-attachments/assets/388c535b-b7e0-47ed-b81a-92ce9bdc513a)
 - Integrate a **live API** for real-time Netflix content updates.
 - Enhance **data storytelling** with additional visuals and tooltips.
   
