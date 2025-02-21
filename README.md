@@ -4,7 +4,7 @@
 The **Netflix Content Analysis Dashboard** is an interactive **Power BI report** that provides insights into Netflix’s movie and TV show catalog. The dashboard helps analyze **content distribution, trends over time, genre popularity, and regional availability** of shows and movies.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]![Image](https://github.com/user-attachments/assets/a24204b0-6ac8-414b-8bec-a4226b8308e3)
+[Image](https://github.com/user-attachments/assets/a24204b0-6ac8-414b-8bec-a4226b8308e3)
 
 ## 📈 Key Insights
 - **Total Content**: **8,807** movies and TV shows available.
