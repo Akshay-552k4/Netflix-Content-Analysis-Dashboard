@@ -18,7 +18,7 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 - **Ratings Distribution**: Breakdown of movies and shows based on ratings like **TV-MA, PG-13, R, TV-14, etc.**
 
 ## 🔗 Dataset Details
-- **Source**: [Netflix dataset](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/tree/main/Data).
+- **Source**: [Netflix dataset] [(https://github.com/Akshay-552k4/Netflix-Content-Analysis-Dashboard/tree/main/Data)].
   
 ## 📊 Visuals Included
 ✅ **Total Count Cards** (Movies, TV Shows, Directors, Genres)  
