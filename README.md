@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 The **Netflix Content Analysis Dashboard** is an interactive **Power BI report** that provides insights into Netflix’s movie and TV show catalog. The dashboard helps analyze **content distribution, trends over time, genre popularity, and regional availability** of shows and movies.
 
+## 🔗 Dataset Details
+- **Source**: [Netflix dataset](https://github.com/Akshay-552k4/Netflix-Content-Analysis-Dashboard/tree/main/Data)
+
 ## 📊 Dashboard Preview
 ![Image](https://github.com/user-attachments/assets/a24204b0-6ac8-414b-8bec-a4226b8308e3)
 
@@ -19,9 +22,6 @@ The **Netflix Content Analysis Dashboard** is an interactive **Power BI report**
 - **Regional Distribution**: Analysis of Netflix content by country, visualized using **maps**.
 - **Content Growth Over Time**: Shows the number of movies and TV shows released per year.
 - **Ratings Distribution**: Breakdown of movies and shows based on ratings like **TV-MA, PG-13, R, TV-14, etc.**
-
-## 🔗 Dataset Details
-- **Source**: [Netflix dataset](https://github.com/Akshay-552k4/Netflix-Content-Analysis-Dashboard/tree/main/Data)
   
 ## 📊 Visuals Included
 ✅ **Total Count Cards** (Movies, TV Shows, Directors, Genres)  
